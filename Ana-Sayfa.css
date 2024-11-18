@@ -128,14 +128,6 @@
   padding: 22px 30px;
 }
 
-.u-section-2 .u-image-1 {
-  width: 180px;
-  height: 180px;
-  background-image: url("https://i.hizliresim.com/tael8ar.png");
-  background-position: 50% 50%;
-  margin: 0 auto;
-}
-
 .u-section-2 .u-text-1 {
   line-height: 2;
   font-size: 1.125rem;
@@ -157,6 +149,15 @@
   width: 396px;
   min-width: 268px;
   margin: 50px auto 0;
+}
+
+
+.u-section-2 .u-image-1 {
+  width: 180px;
+  height: 180px;
+  background-image: url("https://i.hizliresim.com/tael8ar.png");
+  background-position: 50% 50%;
+  margin: 0 auto;
 }
 
 .u-section-2 .u-icon-1 {
